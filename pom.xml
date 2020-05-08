@@ -6,9 +6,9 @@
   <packaging>war</packaging>
 
   <scm>
-   <connection>scm:git:git@gitlab.com:devopsb43/student.git</connection>
-   <url>scm:git:git@gitlab.com:devopsb43/student.git</url>
-   <developerConnection>scm:git:git@gitlab.com:devopsb43/student.git</developerConnection>
+   <connection>scm:git:https://github.com/naveenthangella/student.git</connection>
+   <url>scm:git:https://github.com/naveenthangella/student.git</url>
+   <developerConnection>scm:git:https://github.com/naveenthangella/student.git</developerConnection>
     <tag>studentapp-1.0</tag>
   </scm>   
 
